@@ -1,0 +1,21 @@
+@import './base.css';
+
+.App-footer {
+  background-color: $light-gray;
+  height: 10vh;
+  width: 100%;
+  bottom: 0;
+  color: $dark-gray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+}
+
+.App-footer p {
+  text-align: left;
+  width: 100%;
+  padding-left: 50px;
+  font-weight: 700;
+  font-size: 12px;
+}
