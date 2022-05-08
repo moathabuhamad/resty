@@ -1,0 +1,7 @@
+#results {
+    margin-bottom: 10vh;
+    max-height: 62vh;
+    overflow: scroll;
+    border: 1px solid $light-gray;
+    padding: 10px;
+}
