@@ -2,6 +2,6 @@
     margin-bottom: 10vh;
     max-height: 62vh;
     overflow: scroll;
-    border: 1px solid $light-gray;
+    border: 1px solid #cdc9c3;
     padding: 10px;
 }
