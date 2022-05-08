@@ -1,7 +1,5 @@
-@import './base.css';
-
 .App-header {
-  background-color: $dark-gray;
+  background-color: #4b5d67;
   height: 10vh;
   display: flex;
   flex-direction: column;

@@ -1,14 +1,14 @@
 import React from 'react';
 
-import './style/base.css';
 import './style/header.css';
 import './style/form.css';
 import './style/results.css';
 import './style/footer.css';
+import './App.css';
 
 import Header from './components/header';
 import Form from './components/form';
-import Results from './components/results';
+import Results from './components/result';
 import Footer from './components/footer';
 
 class App extends React.Component {
