@@ -1,0 +1,26 @@
+#form{
+  margin: 7%;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 100%;
+}
+
+#radio-methods{
+  display:flex;
+  justify-items: space-around;
+}
+
+#body-area{
+  width:70%;
+  height:auto;
+}
+
+#url-submit{
+  margin:8px;
+}
+
+#url-input{
+  width:70%;
+}
