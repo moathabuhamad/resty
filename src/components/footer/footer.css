@@ -1,13 +1,14 @@
 #footer {
   background-color: #cdc9c3;
-  height: 10vh;
+  height: auto;
   width: 100%;
-  bottom: 0;
   color: #4b5d67;
   display: flex;
   align-items: center;
   justify-content: center;
-  position: absolute;
+  left: "0";
+  bottom: "0";
+  position: "fixed";
 }
 
 #footer p {
