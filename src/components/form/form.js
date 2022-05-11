@@ -48,19 +48,18 @@ const Form = function (props) {
           
           <div id='url-submit'>
             <input
-              id='submit'
-              type='submit'
-              value='go!'
-              onSubmit={updateResults}
-            />
-            <input
               ref={resultRef}
               type='text'
               id='url-input'
               placeholder='https://'
             />
+            <input
+              id='submit'
+              type='submit'
+              value='go!'
+              onSubmit={updateResults}
+            />
           </div>
-          <textarea id='body-area' onChange={props.handleBodyChange}  cols='50' rows='10'/>
         </form>
     </>
   );
